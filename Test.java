@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Test {
 
 	public static void main(String[] args) {
-		int[] arr = {16, 2, 5, 4, 8, 20, 40};
+		int[] arr = {56, 3, 10, 9, 10, 50, 90};
 		System.out.println(Arrays.toString(arr));
 		Arrays.sort(arr);
 		System.out.println(Arrays.toString(arr));
