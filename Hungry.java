@@ -14,7 +14,15 @@ public class Hungry {
 		}
 		else
 		{
-			System.out.println("Do your work");
+			System.out.println("Are you thirsty?");
+			Scanner s1 = new Scanner(System.in);
+			String input1 = s1.nextLine();
+			if(input1.equals("yes"))
+			{
+				System.out.println("Drink water");
+				System.out.println("Drink soda");
+				System.out.println("Drink more water");
+			}
 		}
 
 	}
