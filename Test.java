@@ -30,7 +30,7 @@ public class Test {
 		System.out.println(bigDiff);
 		System.out.println("This is how it looks");
 		System.out.println("This is my first commit");
-		
+		System.out.println("This is my second commit");
 	
 		
 	}
