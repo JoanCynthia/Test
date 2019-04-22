@@ -13,6 +13,7 @@ public class Hungry {
 			System.out.println("Eat burger");
 			System.out.println("Eat fries");
 			System.out.println("Eat chips");
+			System.out.println("Eat more chips");
 		}
 		else
 		{
